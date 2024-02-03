@@ -37,3 +37,6 @@ https://www.nyc.gov/html/dot/html/motorist/atis.shtml#transitmap
 check openTraffic
 https://github.com/opentraffic/otv2-platform
 https://new.mta.info/developers (for subway rail and bus)
+
+TAXI FARE PREDICTION
+https://colab.research.google.com/drive/16gNq-iJoVT5Y0IKqknZaj7PO1Zo9cqst?usp=sharing
